@@ -1,2 +1,2 @@
-var x= 5
-console .log(x+10)
+var x= 2
+console .log(x+1)
